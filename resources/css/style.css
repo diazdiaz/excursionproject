@@ -1,0 +1,36 @@
+* {
+  font-family:verdana;
+  text-align:centered;
+}
+
+h1 {
+  font-family:Verdana;
+  font-weight:normal;
+  font-size:50px;
+  color:white;
+  text-align:centered;
+}
+.minilink1 {
+  color:aquamarine;
+  font-size:16px;
+}
+.video {
+  background-color:black;
+
+}
+
+.info {
+  font-size:21px;
+  color:gray;
+}
+
+.title1 {
+  color:white;
+  font-weight:300;
+  font-size:42px;
+}
+
+#copyright {
+  text-align:right;
+  color:gray;
+}
